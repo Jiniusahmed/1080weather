@@ -1,0 +1,36 @@
+@media screen and (max-width: 1080px) {
+    #nav-bar {
+        width: 100%;
+    }
+    .logo img {
+        float: right;
+        width: 136px;
+        margin-left: 15px;
+        margin-top: 0px;
+        float: none;
+    }
+    .heading h2 {
+        font-size: 43px;
+    }
+    .little-description {
+        padding-left: 10px;
+    }
+    .app-p p {
+        padding-left: 25px;
+    }
+    .app-desc h1 {
+        padding-left: 25px;
+    }
+    .app-btn button {
+        margin-left: 25px;
+    }
+    .copyright-bottom {
+        padding-right: 0px;
+    }
+    .screen-icone {
+        padding-left: 23px;
+    }
+    .little-desc2 {
+        padding-left: 23px;
+    }
+}
